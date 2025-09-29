@@ -1,7 +1,7 @@
 # AI Coding Assistants: Changing Software Development
 
 ## Team Members
-- Xenofon Gkioka 
+- Xenofon Gkioka [GitHub Manager & Coordinator]
 - Antonio Oscar Hocbo
 - Rasel Ahmmed
 - Aida Aghaei
