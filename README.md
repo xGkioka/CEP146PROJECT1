@@ -2,7 +2,7 @@
 
 ## Team Members
 - Xenofon Gkioka [GitHub Manager & Coordinator]
-- Antonio Oscar Hocbo
+- Antonio Oscar Hocbo [Researcher]
 - Rasel Ahmmed
 - Aida Aghaei
 - Sapphire Grant
