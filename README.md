@@ -3,7 +3,7 @@
 ## Team Members
 - Xenofon Gkioka [GitHub Manager & Coordinator]
 - Antonio Oscar Hocbo [Researcher]
-- Rasel Ahmmed
+- Rasel Ahmmed [script]
 - Aida Aghaei
 - Sapphire Grant
 
