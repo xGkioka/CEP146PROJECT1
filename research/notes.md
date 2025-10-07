@@ -25,7 +25,7 @@ Without the help from the expertise they will find hard time the correct there m
 
 
 ## AI coding assistants aren’t really making devs feel more productive
-[Click here to visit leaddev]((https://www.infoworld.com/article/3619505/why-ai-is-best-for-experienced-developers.html)](https://leaddev.com/velocity/ai-coding-assistants-arent-really-making-devs-feel-more-productive)
+[Click here to visit leaddev](https://leaddev.com/velocity/ai-coding-assistants-arent-really-making-devs-feel-more-productive)
 
 
 ## Key Points
@@ -57,5 +57,6 @@ Although AI is helpful sometimes it can give you a wrong ideas which if you don'
 * Even if AI Coding Assistants are programmed to give you answers they make mistakes too. If you are a senior developer you would notice if there are mistakes on what AI answers are giving. Be careful in every answer it gives. Also if AI made mistakes it can fix that problem by itself.
 2. It doesn’t question you and takes (most of) your suggestions seriously, even when it was right
 * I have notice that whenever I use AI even if the answer is correct it will still give you prompts which has an error but it will also give you how the process is right.
+
 
 
