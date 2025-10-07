@@ -1,5 +1,5 @@
 ## Why AI coding assistants are best for experienced developers
-[Click here to visit infoworld]((https://www.infoworld.com/article/3619505/why-ai-is-best-for-experienced-developers.html))
+[Click here to visit infoworld](https://www.infoworld.com/article/3619505/why-ai-is-best-for-experienced-developers.html)
 
 * Generative AI nowadays have been a mainstream with software developers.
 * According to a recent survey from Github, more than one million developers have been using Github copilot.
@@ -25,7 +25,7 @@ Without the help from the expertise they will find hard time the correct there m
 
 
 ## AI coding assistants aren’t really making devs feel more productive
-[Click here to visit leaddev]((https://www.infoworld.com/article/3619505/why-ai-is-best-for-experienced-developers.html)](https://leaddev.com/velocity/ai-coding-assistants-arent-really-making-devs-feel-more-productive))
+[Click here to visit leaddev]((https://www.infoworld.com/article/3619505/why-ai-is-best-for-experienced-developers.html)](https://leaddev.com/velocity/ai-coding-assistants-arent-really-making-devs-feel-more-productive)
 
 
 ## Key Points
@@ -40,7 +40,7 @@ Since the launch of ChatGPT, AI tools like GitHub Copilot and Cursor have become
 
 
 ## What It's Really Like Using an AI Coding Assistant
-[Click here to visit article by Annie Vella]((https://annievella.com/posts/what-its-really-like-using-an-ai-coding-assistant/))
+[Click here to visit article by Annie Vella](https://annievella.com/posts/what-its-really-like-using-an-ai-coding-assistant/)
 ### Good things about AI Coding Assistant
 1. Helpful pair programmer
 Using AI feels like you have a partner when programming. It helps you in a way that you can collaborate the ideas, problems, suggestions and can catch potential issues before they become bugs.
@@ -57,4 +57,5 @@ Although AI is helpful sometimes it can give you a wrong ideas which if you don'
 * Even if AI Coding Assistants are programmed to give you answers they make mistakes too. If you are a senior developer you would notice if there are mistakes on what AI answers are giving. Be careful in every answer it gives. Also if AI made mistakes it can fix that problem by itself.
 2. It doesn’t question you and takes (most of) your suggestions seriously, even when it was right
 * I have notice that whenever I use AI even if the answer is correct it will still give you prompts which has an error but it will also give you how the process is right.
+
 
