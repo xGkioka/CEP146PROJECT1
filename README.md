@@ -1,17 +1,23 @@
 # AI Coding Assistants: Changing Software Development
 
+## Topic Summary
+Our presentation explores how AI tools like GitHub Copilot and ChatGPT are changing the way software is developed.
+We discuss the benefits, ethical issues, and real examples from 2025 showing how companies use AI to boost productivity.
+
+## Final Question
+How should developers balance AI automation with human review to maintain code quality?
+
+## YouTube Video
+[Watch here](https://youtube.com/yourlink)
+
 ## Team Members
 - Xenofon Gkioka [GitHub Manager & Coordinator]
 - Antonio Oscar Hocbo [Researcher]
 - Rasel Ahmmed [script]
 - Aida Aghaei [video]
-- Sapphire Grant
+- Sapphire Grant[slides]
 
-## Topic Summary
-GitHub Copilot and similar AI coding assistants are transforming how developers write software. In 2025, new updates and lawsuits about training data have made headlines. Our video explains what’s happening, why it matters for developers, and where the future may go.
-
-## YouTube Video
-[Watch here](https://youtube.com/yourlink)
-
-## Audience Question
-If AI can reliably write 80% of your code, what new skills should developers focus on?
+## Research References
+1. GitHub Blog – “Copilot X: The Next Step in AI Coding” (2025)  
+2. OpenAI News – “GPT-5 in Software Development” (2025)  
+3. Wired – “Developers Debate Ethics of AI in Code” (2024)
