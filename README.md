@@ -4,7 +4,7 @@
 - Xenofon Gkioka [GitHub Manager & Coordinator]
 - Antonio Oscar Hocbo [Researcher]
 - Rasel Ahmmed [script]
-- Aida Aghaei
+- Aida Aghaei [video]
 - Sapphire Grant
 
 ## Topic Summary
