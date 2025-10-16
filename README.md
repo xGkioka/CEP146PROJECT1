@@ -8,7 +8,7 @@ We discuss the benefits, ethical issues, and real examples from 2025 showing how
 How should developers balance AI automation with human review to maintain code quality?
 
 ## YouTube Video
-[Watch here](https://youtube.com/yourlink)
+[Watch here](https://youtu.be/kvr0iwApeo4?si=2liELdVmewN2UFqo)
 
 ## Team Members
 - Xenofon Gkioka [GitHub Manager & Coordinator]
